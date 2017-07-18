@@ -16,14 +16,15 @@ reboot //重启光猫命令
 下面讲我说设置的实例：
 
 首先putty用telnet登录
+![image](http://139.199.224.79/wp-content/uploads/2017/07/L1-300x190.jpg)
 
-http://139.199.224.79/wp-content/uploads/2017/07/L1-300x190.jpg
+
 
 先看看这玩意有几个表，输入命令回车
 
 sendcmd 1 DB all
+![image](http://139.199.224.79/wp-content/uploads/2017/07/L2-300x192.jpg)
 
-http://139.199.224.79/wp-content/uploads/2017/07/L2-300x192.jpg
 
 在putty里面选中按CTRL+shift+C复制出来到记事本中
 
