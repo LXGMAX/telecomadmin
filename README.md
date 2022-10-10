@@ -18,13 +18,14 @@ reboot //重启光猫命令
 
 下面讲我说设置的实例：
 首先putty用telnet登录
-![L1-300x190.jpg][1]
+
+![1](https://user-images.githubusercontent.com/24214894/194789908-2757f41a-39c6-4bdf-a43c-727b274e5f37.jpg)
 
 先看看这玩意有几个表，输入命令回车
 
 sendcmd 1 DB all
 
-![L2-300x192.jpg][2]
+![2](https://user-images.githubusercontent.com/24214894/194789911-75f0c5d6-1c45-41e7-84e8-f5ad975adeca.jpg)
 
 在putty里面选中按CTRL+shift+C复制出来到记事本中
 
@@ -341,6 +342,3 @@ save && reboot我们就可以享用劳动成果了，还有其他两百多个表
 
 ### 另外，新的千兆光猫已经不适用这种表方式存储设置，并精简了许多Linux的命令，等待新的研究
 ### [本人博客](http://www.gzjnas.xyz)
-
-![1](https://user-images.githubusercontent.com/24214894/194789908-2757f41a-39c6-4bdf-a43c-727b274e5f37.jpg)
-![2](https://user-images.githubusercontent.com/24214894/194789911-75f0c5d6-1c45-41e7-84e8-f5ad975adeca.jpg)
